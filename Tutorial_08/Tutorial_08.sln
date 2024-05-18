@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial_08", "Tutorial_08.csproj", "{6732FCC3-DD98-4706-ADE9-6DA2D4D59BFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial_08_Passo_3", "..\Tutorial_08_Passo_3\Tutorial_08_Passo_3.csproj", "{EB880316-D78A-4B67-82A6-0C5CA2ED8B9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6732FCC3-DD98-4706-ADE9-6DA2D4D59BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6732FCC3-DD98-4706-ADE9-6DA2D4D59BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6732FCC3-DD98-4706-ADE9-6DA2D4D59BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6732FCC3-DD98-4706-ADE9-6DA2D4D59BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB880316-D78A-4B67-82A6-0C5CA2ED8B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB880316-D78A-4B67-82A6-0C5CA2ED8B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB880316-D78A-4B67-82A6-0C5CA2ED8B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB880316-D78A-4B67-82A6-0C5CA2ED8B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C0C45D5-F94F-47FA-9A3E-02EF59D9B6CB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\4\u00BA Ano\\Engenharia Web\\Testes\\TesteP1\\Teste1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1417653E-732B-473B-A076-090FFD3ABEE8}|Teste1.1.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\4\u00BA ano\\engenharia web\\testes\\testep1\\teste1.1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1417653E-732B-473B-A076-090FFD3ABEE8}|Teste1.1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1417653E-732B-473B-A076-090FFD3ABEE8}|Teste1.1.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\4\u00BA ano\\engenharia web\\testes\\testep1\\teste1.1\\models\\alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1417653E-732B-473B-A076-090FFD3ABEE8}|Teste1.1.csproj|solutionrelative:models\\alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1417653E-732B-473B-A076-090FFD3ABEE8}|Teste1.1.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\4\u00BA ano\\engenharia web\\testes\\testep1\\teste1.1\\migrations\\20231101114140_alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1417653E-732B-473B-A076-090FFD3ABEE8}|Teste1.1.csproj|solutionrelative:migrations\\20231101114140_alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1417653E-732B-473B-A076-090FFD3ABEE8}|Teste1.1.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\4\u00BA ano\\engenharia web\\testes\\testep1\\teste1.1\\migrations\\db_al73991contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1417653E-732B-473B-A076-090FFD3ABEE8}|Teste1.1.csproj|solutionrelative:migrations\\db_al73991contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1417653E-732B-473B-A076-090FFD3ABEE8}|Teste1.1.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\4\u00BA ano\\engenharia web\\testes\\testep1\\teste1.1\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1417653E-732B-473B-A076-090FFD3ABEE8}|Teste1.1.csproj|solutionrelative:controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1417653E-732B-473B-A076-090FFD3ABEE8}|Teste1.1.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\4\u00BA ano\\engenharia web\\testes\\testep1\\teste1.1\\data\\db_al73991context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1417653E-732B-473B-A076-090FFD3ABEE8}|Teste1.1.csproj|solutionrelative:data\\db_al73991context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1417653E-732B-473B-A076-090FFD3ABEE8}|Teste1.1.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\4\u00BA ano\\engenharia web\\testes\\testep1\\teste1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1417653E-732B-473B-A076-090FFD3ABEE8}|Teste1.1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1417653E-732B-473B-A076-090FFD3ABEE8}|Teste1.1.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\4\u00BA ano\\engenharia web\\testes\\testep1\\teste1.1\\views\\alunos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1417653E-732B-473B-A076-090FFD3ABEE8}|Teste1.1.csproj|solutionrelative:views\\alunos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1417653E-732B-473B-A076-090FFD3ABEE8}|Teste1.1.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\4\u00BA ano\\engenharia web\\testes\\testep1\\teste1.1\\views\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1417653E-732B-473B-A076-090FFD3ABEE8}|Teste1.1.csproj|solutionrelative:views\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DB_al73991ContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\4\u00BA Ano\\Engenharia Web\\Testes\\TesteP1\\Teste1.1\\Migrations\\DB_al73991ContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\DB_al73991ContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\4\u00BA Ano\\Engenharia Web\\Testes\\TesteP1\\Teste1.1\\Migrations\\DB_al73991ContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\DB_al73991ContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T23:51:56.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DB_al73991Context.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\4\u00BA Ano\\Engenharia Web\\Testes\\TesteP1\\Teste1.1\\Data\\DB_al73991Context.cs",
+              "RelativeDocumentMoniker": "Data\\DB_al73991Context.cs",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\4\u00BA Ano\\Engenharia Web\\Testes\\TesteP1\\Teste1.1\\Data\\DB_al73991Context.cs",
+              "RelativeToolTip": "Data\\DB_al73991Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T23:51:51.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\4\u00BA Ano\\Engenharia Web\\Testes\\TesteP1\\Teste1.1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\4\u00BA Ano\\Engenharia Web\\Testes\\TesteP1\\Teste1.1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T23:26:01.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\4\u00BA Ano\\Engenharia Web\\Testes\\TesteP1\\Teste1.1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\4\u00BA Ano\\Engenharia Web\\Testes\\TesteP1\\Teste1.1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T23:25:13.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\4\u00BA Ano\\Engenharia Web\\Testes\\TesteP1\\Teste1.1\\Views\\Alunos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Alunos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\4\u00BA Ano\\Engenharia Web\\Testes\\TesteP1\\Teste1.1\\Views\\Alunos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Alunos\\Create.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T19:05:51.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\4\u00BA Ano\\Engenharia Web\\Testes\\TesteP1\\Teste1.1\\Views\\Alunos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Alunos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\4\u00BA Ano\\Engenharia Web\\Testes\\TesteP1\\Teste1.1\\Views\\Alunos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Alunos\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T19:05:51.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20231101114140_Alunos.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\4\u00BA Ano\\Engenharia Web\\Testes\\TesteP1\\Teste1.1\\Migrations\\20231101114140_Alunos.cs",
+              "RelativeDocumentMoniker": "Migrations\\20231101114140_Alunos.cs",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\4\u00BA Ano\\Engenharia Web\\Testes\\TesteP1\\Teste1.1\\Migrations\\20231101114140_Alunos.cs",
+              "RelativeToolTip": "Migrations\\20231101114140_Alunos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:05:51.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\4\u00BA Ano\\Engenharia Web\\Testes\\TesteP1\\Teste1.1\\Controllers\\AlunosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\4\u00BA Ano\\Engenharia Web\\Testes\\TesteP1\\Teste1.1\\Controllers\\AlunosController.cs",
+              "RelativeToolTip": "Controllers\\AlunosController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:05:51.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alunos.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\4\u00BA Ano\\Engenharia Web\\Testes\\TesteP1\\Teste1.1\\Models\\Alunos.cs",
+              "RelativeDocumentMoniker": "Models\\Alunos.cs",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\4\u00BA Ano\\Engenharia Web\\Testes\\TesteP1\\Teste1.1\\Models\\Alunos.cs",
+              "RelativeToolTip": "Models\\Alunos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:05:51.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

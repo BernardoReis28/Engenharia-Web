@@ -1,0 +1,892 @@
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\appsettings.Development.json
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\appsettings.json
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Tutorial_03.staticwebassets.runtime.json
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Tutorial_03.exe
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Tutorial_03.deps.json
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Tutorial_03.runtimeconfig.json
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Tutorial_03.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Tutorial_03.pdb
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\Tutorial_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\Tutorial_03.AssemblyInfoInputs.cache
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\Tutorial_03.AssemblyInfo.cs
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\Tutorial_03.csproj.CoreCompileInputs.cache
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\Tutorial_03.MvcApplicationPartsAssemblyInfo.cache
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\Tutorial_03.RazorAssemblyInfo.cache
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\Tutorial_03.RazorAssemblyInfo.cs
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\staticwebassets\msbuild.Tutorial_03.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\staticwebassets\msbuild.build.Tutorial_03.props
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tutorial_03.props
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tutorial_03.props
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\staticwebassets.build.json
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\staticwebassets.development.json
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\scopedcss\bundle\Tutorial_03.styles.css
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\scopedcss\projectbundle\Tutorial_03.bundle.scp.css
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\Tutorial_03.dll
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\refint\Tutorial_03.dll
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\Tutorial_03.pdb
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\Tutorial_03.genruntimeconfig.cache
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\ref\Tutorial_03.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Humanizer.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\NuGet.Common.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programacao\Tutorial_03\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\Tutorial_03.csproj.AssemblyReference.cache
+C:\Programacao\Tutorial_03\obj\Debug\net7.0\Tutorial_03.csproj.CopyComplete
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\appsettings.Development.json
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\appsettings.json
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Tutorial_03.staticwebassets.runtime.json
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Tutorial_03.exe
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Tutorial_03.deps.json
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Tutorial_03.runtimeconfig.json
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Tutorial_03.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Tutorial_03.pdb
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Humanizer.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\NuGet.Common.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\Tutorial_03.csproj.AssemblyReference.cache
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\Tutorial_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\Tutorial_03.AssemblyInfoInputs.cache
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\Tutorial_03.AssemblyInfo.cs
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\Tutorial_03.csproj.CoreCompileInputs.cache
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\Tutorial_03.MvcApplicationPartsAssemblyInfo.cache
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\Tutorial_03.RazorAssemblyInfo.cache
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\Tutorial_03.RazorAssemblyInfo.cs
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\staticwebassets.build.json
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\staticwebassets.development.json
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\staticwebassets\msbuild.Tutorial_03.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\staticwebassets\msbuild.build.Tutorial_03.props
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tutorial_03.props
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tutorial_03.props
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\scopedcss\bundle\Tutorial_03.styles.css
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\scopedcss\projectbundle\Tutorial_03.bundle.scp.css
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\Tutorial_03.csproj.CopyComplete
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\Tutorial_03.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\refint\Tutorial_03.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\Tutorial_03.pdb
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\Tutorial_03.genruntimeconfig.cache
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_03\obj\Debug\net7.0\ref\Tutorial_03.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\appsettings.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Tutorial_03.staticwebassets.runtime.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Tutorial_03.exe
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Tutorial_03.deps.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Tutorial_03.runtimeconfig.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Tutorial_03.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Tutorial_03.pdb
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\Tutorial_03.csproj.AssemblyReference.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\Tutorial_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\Tutorial_03.AssemblyInfoInputs.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\Tutorial_03.AssemblyInfo.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\Tutorial_03.csproj.CoreCompileInputs.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\Tutorial_03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\Tutorial_03.RazorAssemblyInfo.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\Tutorial_03.RazorAssemblyInfo.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\staticwebassets\msbuild.Tutorial_03.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\staticwebassets\msbuild.build.Tutorial_03.props
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tutorial_03.props
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tutorial_03.props
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\scopedcss\bundle\Tutorial_03.styles.css
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\scopedcss\projectbundle\Tutorial_03.bundle.scp.css
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\Tutorial_03.csproj.CopyComplete
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\Tutorial_03.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\refint\Tutorial_03.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\Tutorial_03.pdb
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\Tutorial_03.genruntimeconfig.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Nova pasta\Tutorial_03\obj\Debug\net7.0\ref\Tutorial_03.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\appsettings.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Tutorial_03.staticwebassets.runtime.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Tutorial_03.exe
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Tutorial_03.deps.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Tutorial_03.runtimeconfig.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Tutorial_03.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Tutorial_03.pdb
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\Tutorial_03.csproj.AssemblyReference.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\Tutorial_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\Tutorial_03.AssemblyInfoInputs.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\Tutorial_03.AssemblyInfo.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\Tutorial_03.csproj.CoreCompileInputs.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\Tutorial_03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\Tutorial_03.RazorAssemblyInfo.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\Tutorial_03.RazorAssemblyInfo.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\staticwebassets\msbuild.Tutorial_03.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\staticwebassets\msbuild.build.Tutorial_03.props
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tutorial_03.props
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tutorial_03.props
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\scopedcss\bundle\Tutorial_03.styles.css
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\scopedcss\projectbundle\Tutorial_03.bundle.scp.css
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\Tutorial_03.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\refint\Tutorial_03.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\Tutorial_03.pdb
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\Tutorial_03.genruntimeconfig.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\ref\Tutorial_03.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_03\obj\Debug\net7.0\Tutorial.37D97C4E.Up2Date

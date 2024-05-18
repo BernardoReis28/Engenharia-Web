@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+@* Formulario  *@
+@* O atributo method está definido como "post", o que significa que os dados do 
+formulário serão enviados para o servidor quando o usuário pressionar o botão 
+de envio. O atributo action está vazio, o que significa que os dados serão enviados
+de volta para a mesma página, a menos que especifique um URL específico. 
+Se o  método for definido como "get", os dados do formulário são anexados à URL como
+parâmetros de consulta*@
+<form method="post" action="">
+    <label>Name</label>
+    <input type="text" name="nome" /> <br />
+    <label>Age</label>
+    <input type="text" name="age" /> <br />
+    <input type="submit" value="let's go submit this" /> @* Este é o botão de envio do
+    formulário. Quando o usuário clica nele, os dados inseridos nos campos de nome e 
+    idade serão enviados para o servidor. O texto exibido no botão é "let's go submit this". *@
+</form>

@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Tutorial_06.Models.Student>
+
+@{
+    ViewData["Title"] = "Index3";
+}
+
+<h1>Students list</h1>
+
+<p>
+    @if (ViewBag.Order == "byNumber")
+    {
+        <span style='color: red; font-weight: bold;'>ByNumber</span>
+    }
+    else
+    {
+        <span><a asp-route="ordered" asp-route-by="byNumber" asp-route-way="@ViewBag.Way">ByNumber</a></span>
+    }
+    &nbsp;|&nbsp;
+    @if (ViewBag.Order == "byName")
+    {
+        <span style='color: red; font-weight: bold;'>ByName</span>
+    }
+    else
+    {
+        <span><a asp-route="ordered" asp-route-by="byName" asp-route-way="@ViewBag.Way">ByName</a></span>
+    }
+</p>
+<p>
+    @if (ViewBag.Way == "ascending" || String.IsNullOrEmpty(ViewBag.Way))
+    {
+        <span style='color: red; font-weight: bold;'>Ascending</span>
+    }
+    else
+    {
+        <span><a asp-route="ordered" asp-route-by="@ViewBag.Order" asp-route-way="ascending">Ascending</a></span>
+    }
+    &nbsp;|&nbsp;
+    @if (ViewBag.Way == "descending")
+    {
+        <span style='color: red; font-weight: bold;'>Descending</span>
+    }
+    else
+    {
+        <span><a asp-route="ordered" asp-route-by="@ViewBag.Order" asp-route-way="descending">Descending</a></span>
+    }
+</p>
+
+<partial name="Listing" model="Model" />

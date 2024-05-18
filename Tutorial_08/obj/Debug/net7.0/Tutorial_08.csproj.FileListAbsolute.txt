@@ -1,0 +1,90 @@
+C:\Programacao\Tutorial_08\bin\Debug\net7.0\appsettings.Development.json
+C:\Programacao\Tutorial_08\bin\Debug\net7.0\appsettings.json
+C:\Programacao\Tutorial_08\bin\Debug\net7.0\Tutorial_08.staticwebassets.runtime.json
+C:\Programacao\Tutorial_08\bin\Debug\net7.0\Tutorial_08.exe
+C:\Programacao\Tutorial_08\bin\Debug\net7.0\Tutorial_08.deps.json
+C:\Programacao\Tutorial_08\bin\Debug\net7.0\Tutorial_08.runtimeconfig.json
+C:\Programacao\Tutorial_08\bin\Debug\net7.0\Tutorial_08.dll
+C:\Programacao\Tutorial_08\bin\Debug\net7.0\Tutorial_08.pdb
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\Tutorial_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\Tutorial_08.AssemblyInfoInputs.cache
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\Tutorial_08.AssemblyInfo.cs
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\Tutorial_08.csproj.CoreCompileInputs.cache
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\Tutorial_08.MvcApplicationPartsAssemblyInfo.cache
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\Tutorial_08.RazorAssemblyInfo.cache
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\Tutorial_08.RazorAssemblyInfo.cs
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\staticwebassets\msbuild.Tutorial_08.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\staticwebassets\msbuild.build.Tutorial_08.props
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tutorial_08.props
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tutorial_08.props
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\staticwebassets.build.json
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\staticwebassets.development.json
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\scopedcss\bundle\Tutorial_08.styles.css
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\scopedcss\projectbundle\Tutorial_08.bundle.scp.css
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\Tutorial_08.dll
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\refint\Tutorial_08.dll
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\Tutorial_08.pdb
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\Tutorial_08.genruntimeconfig.cache
+C:\Programacao\Tutorial_08\obj\Debug\net7.0\ref\Tutorial_08.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\bin\Debug\net7.0\appsettings.Development.json
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\bin\Debug\net7.0\appsettings.json
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\bin\Debug\net7.0\Tutorial_08.staticwebassets.runtime.json
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\bin\Debug\net7.0\Tutorial_08.exe
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\bin\Debug\net7.0\Tutorial_08.deps.json
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\bin\Debug\net7.0\Tutorial_08.runtimeconfig.json
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\bin\Debug\net7.0\Tutorial_08.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\bin\Debug\net7.0\Tutorial_08.pdb
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\Tutorial_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\Tutorial_08.AssemblyInfoInputs.cache
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\Tutorial_08.AssemblyInfo.cs
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\Tutorial_08.csproj.CoreCompileInputs.cache
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\Tutorial_08.MvcApplicationPartsAssemblyInfo.cache
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\Tutorial_08.RazorAssemblyInfo.cache
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\Tutorial_08.RazorAssemblyInfo.cs
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\staticwebassets.build.json
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\staticwebassets.development.json
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\staticwebassets\msbuild.Tutorial_08.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\staticwebassets\msbuild.build.Tutorial_08.props
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tutorial_08.props
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tutorial_08.props
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\scopedcss\bundle\Tutorial_08.styles.css
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\scopedcss\projectbundle\Tutorial_08.bundle.scp.css
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\Tutorial_08.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\refint\Tutorial_08.dll
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\Tutorial_08.pdb
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\Tutorial_08.genruntimeconfig.cache
+C:\Programacao\Tutoriais_Eng_Web\Tutorial_08\obj\Debug\net7.0\ref\Tutorial_08.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\bin\Debug\net7.0\appsettings.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\bin\Debug\net7.0\Tutorial_08.staticwebassets.runtime.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\bin\Debug\net7.0\Tutorial_08.exe
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\bin\Debug\net7.0\Tutorial_08.deps.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\bin\Debug\net7.0\Tutorial_08.runtimeconfig.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\bin\Debug\net7.0\Tutorial_08.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\bin\Debug\net7.0\Tutorial_08.pdb
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\Tutorial_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\Tutorial_08.AssemblyInfoInputs.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\Tutorial_08.AssemblyInfo.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\Tutorial_08.csproj.CoreCompileInputs.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\Tutorial_08.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\Tutorial_08.RazorAssemblyInfo.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\Tutorial_08.RazorAssemblyInfo.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\staticwebassets\msbuild.Tutorial_08.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\staticwebassets\msbuild.build.Tutorial_08.props
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tutorial_08.props
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tutorial_08.props
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\scopedcss\bundle\Tutorial_08.styles.css
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\scopedcss\projectbundle\Tutorial_08.bundle.scp.css
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\Tutorial_08.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\refint\Tutorial_08.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\Tutorial_08.pdb
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\Tutorial_08.genruntimeconfig.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\4º Ano\Engenharia Web\Exercicios\Tutorial_08\obj\Debug\net7.0\ref\Tutorial_08.dll
